@@ -5,7 +5,7 @@
   "homepage": "https://uniswap.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/islishude/uniswapv2-solc0.8"
+    "url": "https://github.com/radiant-capital/uniswapv2-solc0.8"
   },
   "keywords": [
     "uniswap",
